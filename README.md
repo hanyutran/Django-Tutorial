@@ -4,8 +4,11 @@
 
 #### I. Firs Project:
   Intall Django, create a project and an application in the project.
+
   Create a view and mapping it to a URL.
+
   Connect templates with models so you can display data created dynamically.
+
   Insert static media files.
 
 #### II. Level Two:
@@ -21,6 +24,19 @@
   Use Django Forms to accept User Input and connect it to the database and retrieve it later on.
 
   The Django framework requires the CSRF token to be present.
-  
+
   Use Django Forms to grab information from the user and then do something with it.
-  
+
+#### IV. Level Four:
+  Relative URLs with Templates.
+
+  Use Django Template Inheritance to practice DRY coding principles.
+
+  Templates Features and Filters.
+
+#### V. Level Five:
+  User Authentication.
+
+  Use the bcrypt and Argon2 to store our passwords safely.
+
+  Use Django’s built in tools (User) to create User Authorization Models.
