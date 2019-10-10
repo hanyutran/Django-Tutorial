@@ -1,4 +1,4 @@
-# Django-Tutorial-SourceCode
+# Django-Tutorial
 
 ## Source code for the Django tutorials
 
